@@ -28,4 +28,7 @@ Github Username:
 Email Address: 
 -cruzv@students.westerntc.edu
 
+![screenshot](https://user-images.githubusercontent.com/95984881/203461286-8767e255-e488-4200-b774-bda716d15a81.png)
+![screenshotCreatedREADME](https://user-images.githubusercontent.com/95984881/203461311-cc09334c-7aa3-4704-a032-39d350a20ed6.png)
+![screenshotCreatedREADME2 0](https://user-images.githubusercontent.com/95984881/203461315-a59a1354-9f23-4d82-b20f-5c8a0a629461.png)
 
